@@ -40,6 +40,15 @@ Created a language learning site to enable people who want to learn another lang
 - CSS with Bootstrap grid and Materialize forms
 - Angular for search functionality
 
+#### NODE
+
+Created a beer ordering app using web sockets to enable bar and festival goers to place an order without queuing, while being alerted when it is ready.  
+
+- Relational database using MONGO DB
+- BCrypt for authentication  
+- Pusher to create web sockets instant order acceptance and confirmation
+- CSS with Bootstrap grid and Materialize forms
+
 ## Education
 
 #### Makers Academy (Feb 2015 - April 2015)
