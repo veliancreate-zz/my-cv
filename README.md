@@ -26,9 +26,9 @@ I would like to work in an agile team filled with people whom I can learn from, 
 
 So far I have styled 3 websites without using a framework such as Bootstrap or Materialize, so I feel comfortable in solving pure CSS problems. I have also used Materialize and Bootstrap, particularly the excellent grid systems, so am capable of using a framework if necessary.
 
-- Commercial website created using Shopify, CSS designed and coded 
+- Commercial website created using Shopify, CSS designed and coded [Rock LED](www.rockled.co.uk)  
 - Charity website with designed with a custom Wordpress theme and CSS design
-- Static documentary showcase site with CSS3 features such as embedded video and animations; SVG animations and JQuery DOM manipulation     
+- Static documentary showcase site with CSS3 features such as embedded video and animations; SVG animations and JQuery DOM manipulation [LRatna.com](www.lratna.com)     
 
 #### RAILS
 
