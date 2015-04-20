@@ -71,8 +71,6 @@ Created a beer ordering app using web sockets to enable bar and festival goers t
 - Employment Law, Employee Relations, Learning and Development
 - Pass
 
-#### Any other qualifications
-
 ## 
 
 **BDP (July 2010 - Dec 2014)**  
