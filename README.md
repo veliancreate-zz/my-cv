@@ -1,6 +1,6 @@
 ## Welcome to Julian Veling's CV
 
-My CV and portfolio can also be viewed on line [here, please take a look!](julianveling.com)
+My CV and portfolio can also be viewed on line [here, please take a look!](https://www.julianveling.com)
 
 I am a hardworking, passionate and committed Junior Developer. Having spent 5 years in HR and recruitment, I decided that I wanted to persue a career with more depth and fulfilment. Over a period of a few months, I taught myself to use HTML, CSS, and JQuery and a bit of PHP, and built a couple of websites in Wordpress and Shopify. After realising that my future lay in Web Development, I completed the intensive 3 month coding bootcamp at Makers Academy in which we have covered:  
 
