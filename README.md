@@ -1,13 +1,18 @@
 ## Welcome to Julian Veling's CV
 
+My CV and portfolio can also be viewed on line [here, please take a look!](julianveling.com)
+
 I am a hardworking, passionate and committed Junior Developer. Having spent 5 years in HR and recruitment, I decided that I wanted to persue a career with more depth and fulfilment. Over a period of a few months, I taught myself to use HTML, CSS, and JQuery and a bit of PHP, and built a couple of websites in Wordpress and Shopify. After realising that my future lay in Web Development, I completed the intensive 3 month coding bootcamp at Makers Academy in which we have covered:  
 
 - Technologies 
   - Ruby 
   - Sinatra 
-  - Rails 
+  - Rails
+  - Javascript
+  - JQuery
   - NodeJS 
   - AngularJS
+  - 
 
 - Testing
   - Rspec
@@ -18,7 +23,7 @@ I am a hardworking, passionate and committed Junior Developer. Having spent 5 ye
   - Protractor 
   - Poltergeist
 
-I would like to work in an agile team filled with people whom I can learn from, working on cutting edge projects that push back the boudaries of what is achievable on the web.  
+I'm looking to work at an innovative technology company where I can continue to learn in an agile environment 
 
 ## Skills
 
