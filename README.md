@@ -2,7 +2,7 @@
 
 My CV and portfolio can also be viewed on line [here, please take a look!](http://www.julianveling.com)
 
-I am a hardworking, passionate and committed Junior Developer. Having spent 5 years in HR and recruitment, I decided that I wanted to persue a career with more depth and fulfilment. Over a period of a few months, I taught myself to use HTML, CSS, and JQuery and a bit of PHP, and built a couple of websites in Wordpress and Shopify. After realising that my future lay in Web Development, I completed the intensive 3 month coding bootcamp at Makers Academy in which we have covered:  
+I am a hardworking, passionate and committed Junior Developer. Having spent 5 years in HR and recruitment, I decided that I wanted to pursue a career with more depth and fulfilment. Over a period of a few months, I taught myself to use HTML, CSS, and JQuery and a bit of PHP, and built a couple of websites in Wordpress and Shopify. After realising that my future lay in Web Development, I completed the intensive 3 month coding bootcamp at Makers Academy in which we have covered:  
 
 - Technologies 
   - Ruby 
@@ -12,16 +12,14 @@ I am a hardworking, passionate and committed Junior Developer. Having spent 5 ye
   - JQuery
   - NodeJS 
   - AngularJS
-  - 
+  - PostgreSQL
 
 - Testing
   - Rspec
-  - Rspec/Capybara
-  - Cucumber/Capybara
+  - Capybara
+  - Capybara
   - Jasmine
-  - Mocha
   - Protractor 
-  - Poltergeist
 
 I'm looking to work at an innovative technology company where I can continue to learn in an agile environment 
 
@@ -49,7 +47,7 @@ Created a language learning site to enable people who want to learn another lang
 
 Created a beer ordering app using web sockets to enable bar and festival goers to place an order without queuing, while being alerted when it is ready.  
 
-- Relational database using MONGO DB
+- MONGO DB
 - BCrypt for authentication  
 - Pusher to create web sockets instant order acceptance and confirmation
 - CSS with Bootstrap grid and Materialize forms
@@ -58,12 +56,10 @@ Created a beer ordering app using web sockets to enable bar and festival goers t
 
 #### Makers Academy (Feb 2015 - April 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, BDD
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha, Protractor
+- Travis CI
 
 #### University of Greenwich (Sept 2004 - Jun 2007)
 
@@ -88,6 +84,3 @@ Created a beer ordering app using web sockets to enable bar and festival goers t
 
 **Ladbrokes PLC (March 2008 - August 2008)**
 *HR Administrator*
-
-**Ladbrokes Racing (June 2005 - March 2008)**
-*Cashier/Deputy Manager*
